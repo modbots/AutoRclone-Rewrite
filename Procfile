@@ -1,1 +1,1 @@
-hickory schedule back.py --every=10sec
+worker: hickory schedule back.py --every=10sec
