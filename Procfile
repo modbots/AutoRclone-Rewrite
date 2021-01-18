@@ -1,1 +1,2 @@
-worker: hickory schedule back.py --every=10sec
+worker: source setup.sh && bash start.sh
+
